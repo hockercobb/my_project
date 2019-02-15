@@ -34,39 +34,48 @@ from kaggle:
 2.Design neural network
     /*  priliminary design */
         
-        //conv1   conv layer_1
+       conv1   conv layer_1
        
        pooling1_lrn  pooling layer_1
         
-        conv2  conv layer_2
+       conv2  conv layer_2
        
        pooling2_lrn pooling layer_2
         
-        local3 pooling layer_1
+       local3 pooling layer_1
         
-        local4 pooling layer_2
+       local4 pooling layer_2
         
-        softmax pooling layer_3
+       softmax pooling layer_3
 
 
 3.Training model.
-    ①create training model.
-    ②save the model.
+    
+   ①create training model.
+    
+   ②save the model.
 
 
 4.Classification and recognition
     
 # Advanced features
+
 1.Based on moxing(producted by Huawei company) and running by the Huawei cloud with better GPU such get a high speed.
+
 2.Design the web-based interface or client and app on mobile phone.
+
 3.Some function based on client such as accounting management, limits of authority managemen..
 
 
 # Resource
+
 1. image resoure (data set)from kaggle/google.
+
 2. web-service maybe built on Huawei Cloud.
+
 3. AI function based on tensorflow.
 ...to be supplemented
     
 Thanks.
+
 Date: 2/14/2019
