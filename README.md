@@ -26,22 +26,33 @@ from kaggle:
    Can be used on computer (and mobile-phone), running on the web service.
  
 # Todo  /  basic features.
+
 1.Image processing
     ①image cropping and pre-processing,standardizing. 
     ②converse the images that can be use in Tensorflow.
+
 2.Design neural network
     /*  priliminary design */
+        
         //conv1   conv layer_1
-        pooling1_lrn  pooling layer_1
+       
+       pooling1_lrn  pooling layer_1
+        
         conv2  conv layer_2
-        pooling2_lrn pooling layer_2
+       
+       pooling2_lrn pooling layer_2
+        
         local3 pooling layer_1
+        
         local4 pooling layer_2
+        
         softmax pooling layer_3
+
 
 3.Training model.
     ①create training model.
     ②save the model.
+
 
 4.Classification and recognition
     
